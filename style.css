@@ -1,6 +1,5 @@
 * {
   box-sizing: border-box;     /* makes box sizes true, & precise */
-  outline: dotted red 1px;
 }
 
 header {
